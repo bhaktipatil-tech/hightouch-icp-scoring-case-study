@@ -1,0 +1,11 @@
+﻿Company,YC URL,YC Batch,Batch Year,Status,Stage,Hiring,Employee Count,Industry,Subindustry,Tags,AI Company,HQ City,HQ Country,Remote Policy,Website,Domain
+MBX,https://www.ycombinator.com/companies/mbx,Winter 2014,2014,Active,Growth,False,150,Consumer,Consumer -> Apparel and Cosmetics,Beauty,False,San Francisco,USA,On site,http://us.memebox.com,us.memebox.com
+CoreOS,https://www.ycombinator.com/companies/coreos,Summer 2013,2013,Acquired,Growth,False,150,B2B,B2B -> Infrastructure,Open Source|DevOps,False,San Francisco,USA,On site,http://coreos.com,coreos.com
+Lob,https://www.ycombinator.com/companies/lob,Summer 2013,2013,Active,Growth,True,150,B2B,B2B -> Marketing,Automation,False,New York City,USA,Partly remote,http://lob.com,lob.com
+OneSignal,https://www.ycombinator.com/companies/onesignal,Summer 2011,2011,Active,Growth,True,150,B2B,B2B -> Marketing,Developer Tools|SaaS|B2B|Messaging|Marketing,False,San Francisco,USA,Partly remote,https://onesignal.com,onesignal.com
+DrChrono,https://www.ycombinator.com/companies/drchrono,Winter 2011,2011,Acquired,Growth,False,150,Healthcare,Healthcare -> Healthcare IT,Healthcare|Telemedicine|API,False,San Francisco,USA,Fully remote,https://www.drchrono.com,drchrono.com
+SingleStore,https://www.ycombinator.com/companies/singlestore,Winter 2011,2011,Active,Growth,False,150,B2B,B2B -> Infrastructure,,False,San Francisco,USA,On site,https://www.singlestore.com,singlestore.com
+Tremendous,https://www.ycombinator.com/companies/tremendous,Winter 2011,2011,Active,Early,False,150,Fintech,Fintech -> Payments,Fintech|Payments,False,New York City,USA,Fully remote,https://www.tremendous.com,tremendous.com
+Pop Meals,https://www.ycombinator.com/companies/pop-meals,Summer 2017,2017,Active,Growth,True,153,Consumer,Consumer -> Food and Beverage,Food Service Robots & Machines|Ghost Kitchens|Delivery,False,Kuala Lumpur,Malaysia,On site,https://popmeals.com,popmeals.com
+clicOH,https://www.ycombinator.com/companies/clicoh,Winter 2021,2021,Active,Growth,False,155,B2B,B2B -> Supply Chain and Logistics,Warehouse Management Tech|B2B|Logistics,False,Buenos Aires,Argentina,On site,http://clicoh.com/,clicoh.com
+Axoni,https://www.ycombinator.com/companies/axoni,Winter 2014,2014,Acquired,Growth,False,155,Fintech,Fintech -> Banking and Exchange,Fintech|SaaS,False,New York City,USA,Partly remote,https://axoni.com,axoni.com
