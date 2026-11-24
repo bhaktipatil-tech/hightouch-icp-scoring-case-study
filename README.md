@@ -227,8 +227,10 @@ However, the model remains a working hypothesis and requires larger-scale testin
 
 - [Sample Companies Dataset — CSV](data/sample_companies.csv)
 
-### Repository Structure
 
+## Repository Structure
+
+```text
 hightouch-icp-scoring-case-study/
 │
 ├── README.md
@@ -249,6 +251,8 @@ hightouch-icp-scoring-case-study/
     ├── Website & technology stack.png
     ├── Funding Score.png
     └── AI_briefing.png
+```
+
 
 ## Project Disclaimer
 
