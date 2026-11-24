@@ -251,3 +251,17 @@ hightouch-icp-scoring-case-study/
 ## Project Disclaimer
 
 This project is an independent educational and portfolio exercise. Hightouch was selected as a reference company for developing a simulated ICP hypothesis. The scoring rules, weights, analysis, and conclusions are independently created and are not affiliated with or endorsed by Hightouch.
+
+## Project Screenshots
+
+### 1. ICP Scoring
+![ICP Scoring](images/ICP%20Scoring.png)
+
+### 2. Website & Technology Stack
+![Website and Technology Stack](images/Website%20%26%20technology%20stack.png)
+
+### 3. Funding Score
+![Funding Score](images/Funding%20Score.png)
+
+### 4. AI Account Briefing
+![AI Briefing](images/AI_briefing.png)
