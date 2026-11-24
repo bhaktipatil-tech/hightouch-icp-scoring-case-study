@@ -94,8 +94,6 @@ V2 introduced a more detailed scoring framework.
 
 ### Technology Stack Breakdown
 
-The technology dimension was divided into three components:
-
 | Component | Maximum Points |
 |---|---:|
 | Data Warehouse | 10 |
@@ -156,6 +154,8 @@ Ten companies were evaluated using both models.
 
 These results demonstrate changes in model behaviour, not proof that V2 predicts customer conversion more accurately.
 
+**Explore the analysis:** [V1 vs V2 Comparison](analysis/V1_vs_V2_Comparison.xlsx)
+
 ## 8. Customer Benchmark Validation
 
 To conduct an initial qualitative sanity check, three publicly documented Hightouch customers were reviewed.
@@ -178,6 +178,8 @@ This is a small, positive-customer-only benchmark.
 
 No non-customer comparison group was included. Therefore, the result does not establish predictive accuracy, precision, recall, or the ability to distinguish customers from non-customers.
 
+**Explore the validation:** [Customer Validation](analysis/Customer_Validation.xlsx)
+
 ## 9. Key Findings
 
 1. Data activation readiness provides useful context beyond basic company characteristics.
@@ -196,6 +198,8 @@ No non-customer comparison group was included. Therefore, the result does not es
 | Public growth and activation evidence may be incomplete | Add evidence links, timestamps, and confidence ratings |
 | Only positive customer benchmarks were tested | Include non-customers and evaluate precision, recall, and ranking performance |
 
+**Explore the findings:** [Final Model Findings](analysis/Final_Model_Findings.xlsx)
+
 ## 11. Final Conclusion
 
 This project demonstrates how a structured ICP scoring framework can make account prioritization more transparent, explainable, and consistent.
@@ -206,7 +210,24 @@ V2 was selected as the final portfolio model because it handles missing informat
 
 However, the model remains a working hypothesis and requires larger-scale testing before it can be considered production-ready.
 
-## 12. Repository Structure
+## 12. Project Files & Repository Structure
+
+### Scoring Models
+
+- [V1 ICP Scoring Model](scoring/ICP_Scoring_V1_Test_Results.xlsx)
+- [V2 ICP Scoring Model](scoring/ICP_Scoring_V2_Test.xlsx)
+
+### Analysis & Validation
+
+- [V1 vs V2 Comparison](analysis/V1_vs_V2_Comparison.xlsx)
+- [Customer Validation](analysis/Customer_Validation.xlsx)
+- [Final Model Findings](analysis/Final_Model_Findings.xlsx)
+
+### Dataset
+
+- [Sample Companies Dataset — CSV](data/sample_companies.csv)
+
+### Repository Structure
 
 ```text
 hightouch-icp-scoring-case-study/
@@ -216,8 +237,8 @@ hightouch-icp-scoring-case-study/
 │   └── sample_companies.csv
 │
 ├── scoring/
-│   ├── V1_Scoring_Rules.xlsx
-│   └── V2_Scoring_Model.xlsx
+│   ├── ICP_Scoring_V1_Test_Results.xlsx
+│   └── ICP_Scoring_V2_Test.xlsx
 │
 ├── analysis/
 │   ├── V1_vs_V2_Comparison.xlsx
@@ -230,4 +251,3 @@ hightouch-icp-scoring-case-study/
 ## Project Disclaimer
 
 This project is an independent educational and portfolio exercise. Hightouch was selected as a reference company for developing a simulated ICP hypothesis. The scoring rules, weights, analysis, and conclusions are independently created and are not affiliated with or endorsed by Hightouch.
-
