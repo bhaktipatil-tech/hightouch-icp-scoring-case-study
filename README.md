@@ -229,7 +229,7 @@ However, the model remains a working hypothesis and requires larger-scale testin
 
 ### Repository Structure
 
-hightouch-icp-scoring-case-study/
+-- hightouch-icp-scoring-case-study/
 │
 ├── README.md
 ├── data/
@@ -249,7 +249,7 @@ hightouch-icp-scoring-case-study/
     ├── Website & technology stack.png
     ├── Funding Score.png
     └── AI_briefing.png
-
+--
 ## Project Disclaimer
 
 This project is an independent educational and portfolio exercise. Hightouch was selected as a reference company for developing a simulated ICP hypothesis. The scoring rules, weights, analysis, and conclusions are independently created and are not affiliated with or endorsed by Hightouch.
